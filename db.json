@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "name": "Manfare's Ertugrul Designed T Shirt For Men",
+      "slug": "Manfare's-Ertugrul-Designed-T-Shirt-For-Men",
+      "regular_price": "220",
+      "sale_price": "450",
+      "desc": "Manfare are trully Offer you the Most Beautiful and Unique Designed Trendy round Neck Tshirt. Our Unique piece of T-Shirt for daily wear and it can be well matched with diversified suits, casual wear, jeans",
+      "rating": "5",
+      "categoryId": "",
+      "tagId": "4",
+      "photo": "https://static-01.daraz.com.bd/p/fdcbeabb872cb15d1f1101997ad91192.jpg",
+      "id": 1
+    },
+    {
+      "name": "Exclusive Design Multicolor Tangail Handloom Jhorna Saree For Women",
+      "slug": "Exclusive-Design-Multicolor-Tangail-Handloom-Jhorna-Saree-For-Women",
+      "regular_price": "",
+      "sale_price": "500",
+      "desc": "Length : 13.5\nMade from : Tangail\nMade by : Handloom\nPerfect wear for formal occasions",
+      "rating": "4",
+      "categoryId": "",
+      "tagId": "6",
+      "photo": "https://static-01.daraz.com.bd/p/0f00b26ad72ab3d4153c60f729565197.jpg",
+      "id": 2
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "name": "raqi",
+      "slug": "raqi"
+    },
+    {
+      "id": 2,
+      "name": "ridoy",
+      "slug": "ridoy"
+    },
+    {
+      "id": 3,
+      "name": "ridoy",
+      "slug": "ridoy"
+    },
+    {
+      "id": 4,
+      "name": "ridoy",
+      "slug": "ridoy"
+    },
+    {
+      "id": 5,
+      "name": "ridoy",
+      "slug": "ridoy"
+    },
+    {
+      "id": 6,
+      "name": "xgfghg",
+      "slug": "xgfghg"
+    },
+    {
+      "id": 7,
+      "name": "xg",
+      "slug": "xg"
+    },
+    {
+      "id": 8,
+      "name": "nam",
+      "slug": "nam"
+    },
+    {
+      "id": 9,
+      "name": "raj",
+      "slug": "raj"
+    },
+    {
+      "id": 10,
+      "name": "sari",
+      "slug": "sari"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "ridoy",
+      "slug": "ridoy"
+    },
+    {
+      "id": 4,
+      "name": "raqi",
+      "slug": "raqi"
+    },
+    {
+      "id": 5,
+      "name": "fsfgf",
+      "slug": "fsfgf"
+    },
+    {
+      "id": 6,
+      "name": "ridoy",
+      "slug": "ridoy"
+    },
+    {
+      "id": 7,
+      "name": "",
+      "slug": ""
+    }
+  ]
+}
